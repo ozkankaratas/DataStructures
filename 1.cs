@@ -199,8 +199,7 @@ namespace VERI_YAPILARI
             return a * flag + bilg(a + 1, flag * -1);
         }*/
 
-        #region 2.ders metod
-        //RECURSIVE - OZYINELEMELI FONK,
+        #region 2.ders RECURSIVE 
         //static void bilg(int a)
         //{
         //    if (a >= 15) return;
